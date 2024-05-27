@@ -1,5 +1,7 @@
 ![Header](https://raw.githubusercontent.com/LJanketic/LJanketic/main/header-image.png)
 
+## Hello there 🖖🏼
+
 ### Languages
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
